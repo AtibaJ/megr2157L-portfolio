@@ -9,3 +9,6 @@ The designers have to pay attention to how the part sits on a plate otherwise th
 ## FDM Research 
 One fdm specific consideration is where the holes should be printed, holes should be printed normal to the x-y plane because the path the 3d printer follows is circular in design.  
 Another thing to consider is that the holes you create for your 3d print should have supports for your print as they won't be able to stand alone. 
+
+Added from group-  
+The infill of your project is important so your project won't be too light, and to keep your base warm so it won't warp. 
