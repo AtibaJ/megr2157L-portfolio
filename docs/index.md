@@ -2,6 +2,7 @@
 
 > **Engineering is the art of making decisions you can defend.**  
 > <img src="imageweb.jpg" alt="Prosthetic Hand" width="1600">
+> "The best things we create in life are those create for the enjoyment of others." - Atiba Johnson 
 
 **Welcome to your design portfolio.**
 
