@@ -1,7 +1,7 @@
 # MEGR 2156 — Design Projects I Laboratory
 
 > **Engineering is the art of making decisions you can defend.**  
-> <img src="imageweb.jpg" alt="Prosthetic Hand" width="400">
+> <img src="imageweb.jpg" alt="Prosthetic Hand" width="1600">
 
 **Welcome to your design portfolio.**
 
