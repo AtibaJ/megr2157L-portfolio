@@ -2,7 +2,9 @@
 
 ## DfAM Research   
 One design rule that we can use is to design for minimum usage, this means when companies are creating materials they should only use what is necessary for that projects creation, this is critical because it can save on cost and time in the industry.   
-Using too much material for lighter weight components can be a huge time loss for companies as well a huge money hole when things don't work out. 
+Using too much material for lighter weight components can be a huge time loss for companies as well a huge money hole when things don't work out.   
+Added from group-  
+The designers have to pay attention to how the part sits on a plate otherwise the print could get messed up during the printing process. Self supporting angle should be at minimum of 45, 
 
 ## FDM Research 
 One fdm specific consideration is where the holes should be printed, holes should be printed normal to the x-y plane because the path the 3d printer follows is circular in design.  
