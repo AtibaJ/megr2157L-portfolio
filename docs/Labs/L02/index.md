@@ -30,9 +30,5 @@ Pla filimat was used in the creation of these prints and while the print itself 
 Image in print -  
 <img src="IMG_7189.png" alt="Picture of print being made" width="400">  
 Video of printing being done -  
-<video width="640" height="360" controls>
-  <source src="Printing.mp4">
-  Your browser does not support the video tag.
-</video>
-
+<video width ="100%" controls> <source scr= "Printing.mp4"> </video>
 
