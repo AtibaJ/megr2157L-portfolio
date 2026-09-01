@@ -21,3 +21,4 @@ The file chosen was perfect falling right in the allotted tolerance being only a
 <img src="secondwhistle.png" alt="Picture of whistle" width="400">   
 The print settings before slicing  
 <img src="printsettings.png" alt="Picture of printsettings" width="400">   
+Afterwards I hit "slice now" and used default settings for the print itself  
