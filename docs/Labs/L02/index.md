@@ -22,4 +22,9 @@ The file chosen was perfect falling right in the allotted tolerance being only a
 The print settings before slicing  
 <img src="printsettings.png" alt="Picture of printsettings" width="400">   
 Afterwards I hit "slice now" and used default settings for the print itself  
-<img src="sliceinfo.png" alt="Picture of info for slice" width="400"> 
+<img src="sliceinfo.png" alt="Picture of info for slice" width="400">  
+Hit save  
+Set the document to my groups flash drive  
+**Print**  
+While the print itself took a while to be done since it was 4 peoples prints on one printer (Atiba, Randy, Austin and Maxwell) we were able to finish in around 40 minutes time, below are some videos of the print being done and photos of the print before and after.  
+
