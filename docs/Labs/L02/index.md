@@ -31,7 +31,7 @@ Image in print -
 <img src="IMG_7189.png" alt="Picture of print being made" width="400">  
 Video of printing being done -  
 <video width ="100%" controls>
-  <source scr= "Printing.mp4" type ="video/mp4"> 
+  <source src= "Printing.mp4" type ="video/mp4"> 
 </video>
 
 ## Lessons Learned-  
