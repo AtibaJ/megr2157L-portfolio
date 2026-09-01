@@ -13,3 +13,6 @@ Another thing to consider is that the holes you create for your 3d print should 
 
 Added from group-  
 The infill of your project is important so your project won't be too light, and to keep your base warm so it won't warp. Keep overhand to be less than 45 degrees or add a support to help with overhang. 
+
+##Print Something Small  
+I downloaded a whistle( https://www.printables.com/model/1190062-xxxs-whistle-small-but-loud-4min-print/comments) from printables. I choose the whistle because I wanted the first thing I designed to not be something I could forget about with the functionality aspect it makes the whistle the best option in my opinion. 
