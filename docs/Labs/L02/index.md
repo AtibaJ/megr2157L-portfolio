@@ -28,6 +28,11 @@ Set the document to my groups flash drive
 **Print**  
 Pla filimat was used in the creation of these prints and while the print itself took a while to be done since it was 4 peoples prints on one printer (Atiba, Randy, Austin and Maxwell) we were able to finish in around 40 minutes time, below are some videos of the print being done and photos of the print before and after.  
 Image in print -  
-<img src="IMG_7189.png" alt="Picture of print being made" width="400">   
+<img src="IMG_7189.png" alt="Picture of print being made" width="400">  
+Video of printing being done -  
+<video width="640" height="360" controls>
+  <source src="PrinterPrinting.move" type="video/mov">
+  Your browser does not support the video tag.
+</video>
 
 
