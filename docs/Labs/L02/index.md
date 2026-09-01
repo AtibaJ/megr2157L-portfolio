@@ -36,6 +36,6 @@ Video of printing being done -
 In this lab I learned a lot for example I learned how to set up a printer to be sliced. I also learned how to use printables.com since it was my first time using it. I as well learned how to change the scale and dimensions of a print going to be used. Lastly, I learned how to create a gcode file to be used for export. This lab wouldn't have been possible without my group, Austin with help getting our prints ready to be sent to the printer and Randy with helping me send over the right file to Austin. 
 
 The resources I used were: 
-<a href="https://www.printables.com/">Printables</a>
-<a href="https://www.prusa3d.com/p/prusaslicer/"> Prusa </a> 
+<a href="https://www.printables.com/">Printables</a>  
+<a href="https://www.prusa3d.com/p/prusaslicer/"> Prusa </a>   
 <a href="https://uncc.instructure.com/eportfolios/2988/Assignments/Make_Something_Small/">Example Lab </a>
