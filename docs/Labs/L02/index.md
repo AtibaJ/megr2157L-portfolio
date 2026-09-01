@@ -30,9 +30,7 @@ Pla filimat was used in the creation of these prints and while the print itself 
 Image in print -  
 <img src="IMG_7189.png" alt="Picture of print being made" width="400">  
 Video of printing being done -  
-<video width ="100%" controls>
-  <source src= "Printing.mp4" type ="video/mp4"> 
-</video>
+<video width ="100%" controls> <source src= "Printing.mp4"> </video>
 
 ## Lessons Learned-  
 In this lab I learned a lot for example I learned how to set up a printer to be sliced. I also learned how to use printables.com since it was my first time using it. I as well learned how to change the scale and dimensions of a print going to be used. Lastly, I learned how to create a gcode file to be used for export. This lab wouldn't have been possible without my group, Austin with help getting our prints ready to be sent to the printer and Randy with helping me send over the right file to Austin. 
