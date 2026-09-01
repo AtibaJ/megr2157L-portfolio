@@ -31,7 +31,7 @@ Image in print -
 <img src="IMG_7189.png" alt="Picture of print being made" width="400">  
 Video of printing being done -  
 <video width="640" height="360" controls>
-  <source src="PrinterPrinting.mov" type="video/mov">
+  <source src="PrinterPrinting.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
