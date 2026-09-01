@@ -17,4 +17,5 @@ The infill of your project is important so your project won't be too light, and 
 ##Print Something Small  
 I downloaded a whistle( https://www.printables.com/model/1190062-xxxs-whistle-small-but-loud-4min-print/comments) from printables. I choose the whistle because I wanted the first thing I designed to not be something I could forget about with the functionality aspect it makes the whistle the best option in my opinion.   
 <img src="whistlefile.png" alt="G-Code Picture of whistle" width="400">  
-The file chosen was perfect falling right in the allotted tolerance being only a 0.07 in by 0.007 in print. 
+The file chosen was perfect falling right in the allotted tolerance being only a 0.07 in by 0.007 in print.  
+<img src="secondwhistle.png" alt="Picture of whistle" width="400">  
