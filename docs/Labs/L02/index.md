@@ -26,5 +26,8 @@ Afterwards I hit "slice now" and used default settings for the print itself
 Hit save  
 Set the document to my groups flash drive  
 **Print**  
-While the print itself took a while to be done since it was 4 peoples prints on one printer (Atiba, Randy, Austin and Maxwell) we were able to finish in around 40 minutes time, below are some videos of the print being done and photos of the print before and after.  
+Pla filimat was used in the creation of these prints and while the print itself took a while to be done since it was 4 peoples prints on one printer (Atiba, Randy, Austin and Maxwell) we were able to finish in around 40 minutes time, below are some videos of the print being done and photos of the print before and after.  
+Image in print -  
+<img src="IMG_7189.png" alt="Picture of print being made" width="400">   
+
 
