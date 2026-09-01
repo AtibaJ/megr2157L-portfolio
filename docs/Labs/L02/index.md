@@ -22,3 +22,4 @@ The file chosen was perfect falling right in the allotted tolerance being only a
 The print settings before slicing  
 <img src="printsettings.png" alt="Picture of printsettings" width="400">   
 Afterwards I hit "slice now" and used default settings for the print itself  
+<img src="sliceinfo.png" alt="Picture of info for slice" width="400"> 
