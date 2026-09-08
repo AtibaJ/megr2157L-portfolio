@@ -48,6 +48,6 @@ Below is a video of my printing process and my print being created after the new
 
 
 ## Resources 
-<a href="https://uncc.instructure.com/eportfolios/2988/Assignments/Design_and_Make_Something_Small">Example Lab</a>
+<a href="https://uncc.instructure.com/eportfolios/2988/Assignments/Design_and_Make_Something_Small">Example Lab</a>  
 <a href="https://www.youtube.com/watch?v=NDmWs2HTgsU">Cone Creation</a>
 
