@@ -1,13 +1,3 @@
-# A4 – [Topic]
+# A4 – [Benchmark A Parameter]
 
-## Objective
-
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
-
+## 
