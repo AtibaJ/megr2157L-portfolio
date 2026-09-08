@@ -37,4 +37,7 @@ This is the final hole the one that will allow light into the camera and allow f
 
 <img src="pinholeprusa.png" alt ="The pinhole design in prusa slicer">
 
-Thankfully the print didn't have to change orientation as it came right side up. I as well did not need to scale my print as it was perfectly within the parameters as shown by the x y and z coordinates. The infill used in my final print was triangles which was different from the normal printing process. This was used as my print was already like a solid object so if I didn't use something like this it would add extra time to the printing process that wouldn't be needed. The wall thickness was changed to .02 inches due to the fact that if I added more it would create a bigger time and throw my team off of our time schedule. One mistake that happened can be seen below as the printer malfunctioned during my teams printing process. 
+Thankfully the print didn't have to change orientation as it came right side up. I as well did not need to scale my print as it was perfectly within the parameters as shown by the x y and z coordinates. The infill used in my final print was triangles which was different from the normal printing process. This was used as my print was already like a solid object so if I didn't use something like this it would add extra time to the printing process that wouldn't be needed. The wall thickness was changed to .02 inches due to the fact that if I added more it would create a bigger time and throw my team off of our time schedule. One mistake that happened is the printer malfunctioned during my teams printing process. 
+
+##Print
+
