@@ -57,3 +57,10 @@ I didn't think anything of it at the time as we were designing for failure but i
   <li> The PETG heat requirement can be harsh on more detailed prints</li>
 </ul>
 
+## Resources 
+<ul>
+  <li><a href="https://uncc.instructure.com/eportfolios/2988/Assignments/Characterize_Some_Parameter">Example Lab</a></li>
+  <li><a href="https://www.youtube.com/watch?v=hDeecUNinHk">Spiral Builder</a></li>
+  <li><a href="https://www.youtube.com/watch?v=tUjjLafon_E&t=9">Spiral Part maker </a></li>
+</ul>
+
