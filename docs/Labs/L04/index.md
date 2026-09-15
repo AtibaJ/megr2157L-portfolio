@@ -6,7 +6,7 @@ Last week for the lab three *Design something small lab* I made an aperture cont
 
   <figure>
     <img src="pitch changer.png" alt="photo of the pitch changing in creo" width="400" height="400"> 
-    <figcaption>This is what I started with a straight line adjusted for a futher pitch as we get towards the end</figcaption>
+    <figcaption> This is what I started with a straight line adjusted for a futher pitch as we get towards the end</figcaption>
   </figure>
   
 <figure>
@@ -42,12 +42,12 @@ I didn't think anything of it at the time as we were designing for failure but i
   <img src ="IMG_7309.jpeg" alt="first ten seconds of the print" width ="400" height ="400">
   <figcaption> The first 10 minutes of the print already messing up</figcaption>
   <img src="IMG_7310.jpeg" alt="Second image of the printing process" width="400" height ="400">
-  <figcaption> This is the second image I have of the printing </figcaption>
+  <figcaption>This is the second image I have of the printing </figcaption>
   <img src="IMG_7311.jpeg" alt="Third image of the printing process" width="400" height ="400">
-  <figcaption> This is the Third image I have of the printing at this point I decided it was enough and couldn't be fixed </figcaption>
+  <figcaption> This is the Third image I have of the printing at this point I decided it was enough and couldn't be fixed</figcaption>
 </figure>
 
-<video src="
+<video src="Untitled design.mp4" width="400" height="400" controls></video>
 
 
 ## Things Learned
