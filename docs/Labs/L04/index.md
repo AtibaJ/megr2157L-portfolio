@@ -14,3 +14,11 @@ Last week for the lab three *Design something small lab* I made an aperture cont
   <figcaption> This is whats shown in creo after part creation using the sweap as a reference for my line</figcaption>
 </figure>
 
+**Prusa**  
+
+Next I would move onto the slicing of this image by exporting the spiral as a stl file for prusa to accept.  
+<figure>
+  <img src =
+</figure>
+
+
