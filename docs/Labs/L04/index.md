@@ -5,12 +5,12 @@
 Last week for the lab three *Design something small lab* I made an aperture controller for my phone. This week I decided to improve on that earlier design by making a harsher sweep and testing how Prusa would react when it was tested for harsher angels to do this I created a rough outline of what I wanted the camera modulus to look like and exported the file to prusa as shown below. 
 
   <figure>
-    <img src="pitch changer.png" alt=photo of the pitch changing in creo > 
+    <img src="pitch changer.png" alt="photo of the pitch changing in creo" width="400" height="400"> 
     <figcaption>This is what I started with a straight line adjusted for a futher pitch as we get towards the end</figcaption>
   </figure>
   
 <figure>
-  <img width="589" height="372" alt="Screenshot 2026-09-10 113637" src="https://github.com/user-attachments/assets/8fb79cd4-c3fd-4e33-88dd-99527f96f72c">  
+  <img width="400" height="400" alt="Screenshot 2026-09-10 113637" src="https://github.com/user-attachments/assets/8fb79cd4-c3fd-4e33-88dd-99527f96f72c">  
   <figcaption> This is whats shown in creo after part creation using the sweap as a reference for my line</figcaption>
 </figure>  
 
@@ -46,6 +46,8 @@ I didn't think anything of it at the time as we were designing for failure but i
   <img src="IMG_7311.jpeg" alt="Third image of the printing process" width="400" height ="400">
   <figcaption> This is the Third image I have of the printing at this point I decided it was enough and couldn't be fixed </figcaption>
 </figure>
+
+<video src="
 
 
 ## Things Learned
