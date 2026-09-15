@@ -48,3 +48,10 @@ I didn't think anything of it at the time as we were designing for failure but i
 </figure>
 
 
+## Things Learned
+<ul>
+  <li> Supports should always be used</li>
+  <li> The harsher the sweep the longer the printing time</li>
+  <li> The PETG heat requirement can be harsh on more detailed prints</li>
+</ul>
+
