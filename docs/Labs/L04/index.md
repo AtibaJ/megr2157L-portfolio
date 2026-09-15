@@ -52,9 +52,9 @@ I didn't think anything of it at the time as we were designing for failure but i
 
 ## Things Learned
 <ul>
-  <li> Supports should always be used when printing. Because I had a lack of supports I didn't have any way for the prints to keep building.</li>
-  <li> The harsher the sweep the longer the printing time. When I started at scale the print time was around an hour or two and I had to change it.</li>
-  <li> The PETG heat requirement can be harsh on more detailed prints. Due to the high heat required for PETG the print I made was sticking to the bed and folding in on itself.</li>
+  <li> Supports should always be used when printing. Because I had a lack of supports I didn't have any way for the prints to keep building. The next time I try this I will add support to keep the tower stable.</li>
+  <li> The harsher the sweep the longer the printing time. When I started at scale the print time was around an hour or two and I had to change it. The next time I try this I will make my sweep angles smaller so it won't take as long.</li>
+  <li> The PETG heat requirement can be harsh on more detailed prints. Due to the high heat required for PETG the print I made was sticking to the bed and folding in on itself. The next time I try this I won't use PETG</li>
 </ul>
 
 ## Resources 
