@@ -18,7 +18,13 @@ Last week for the lab three *Design something small lab* I made an aperture cont
 
 Next I would move onto the slicing of this image by exporting the spiral as a stl file for prusa to accept.  
 <figure>
-  <img src =
-</figure>
+  <img src="Screenshot 2026-09-10 113824.png" alt = the shown slicer for prusa>
+  <figcaption>This is how the final design looked in prusa</figcaption>
+</figure>  
+
+
+
+Here I would make a mistake and not add any supports to my design it would be important to keep the print from doing what it eventually would. 
+I didn't think anything of it at the time as we were designing for failure but in this failure I changed my test from how small a sweep could be into how the printer would design an object at high temps. Due to the high temp my print would melt and mend together creating an amalgamation I didn't want. 
 
 
