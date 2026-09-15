@@ -10,10 +10,11 @@ Last week for the lab three *Design something small lab* I made an aperture cont
   </figure>
   
 <figure>
-  <img width="589" height="372" alt="Screenshot 2026-09-10 113637" src="https://github.com/user-attachments/assets/8fb79cd4-c3fd-4e33-88dd-99527f96f72c"/>  
+  <img width="589" height="372" alt="Screenshot 2026-09-10 113637" src="https://github.com/user-attachments/assets/8fb79cd4-c3fd-4e33-88dd-99527f96f72c">  
   <figcaption> This is whats shown in creo after part creation using the sweap as a reference for my line</figcaption>
-</figure>
+</figure>  
 
+## Preprocessor 
 **Prusa**  
 
 Next I would move onto the slicing of this image by exporting the spiral as a stl file for prusa to accept.  
@@ -26,5 +27,24 @@ Next I would move onto the slicing of this image by exporting the spiral as a st
 
 Here I would make a mistake and not add any supports to my design it would be important to keep the print from doing what it eventually would. 
 I didn't think anything of it at the time as we were designing for failure but in this failure I changed my test from how small a sweep could be into how the printer would design an object at high temps. Due to the high temp my print would melt and mend together creating an amalgamation I didn't want. 
+
+**Whats shown** 
+<ul>
+  <li>First we can see the image created from creo which is a half scale model to fit in prusa</li>
+  <li>Secondly we can see that I changed the supports to be none which was something I shouldn't have done</li>
+  <li>Thirdly we can see that prusa is telling me to change this to add more supports for my object</li>
+  <li>No Infill was chosen at all and build orientation was picked upright as it was the best for the final build</li>
+</ul>
+
+## Printing
+
+<figure>
+  <img src ="IMG_7309.jpeg" alt="first ten seconds of the print" width ="400" height ="400">
+  <figcaption> The first 10 minutes of the print already messing up</figcaption>
+  <img src="IMG_7310.jpeg" alt="Second image of the printing process" width="400" height ="400">
+  <figcaption> This is the second image I have of the printing </figcaption>
+  <img src="IMG_7311.jpeg" alt="Third image of the printing process" width="400" height ="400">
+  <figcaption> This is the Third image I have of the printing at this point I decided it was enough and couldn't be fixed </figcaption>
+</figure>
 
 
