@@ -44,7 +44,7 @@ I didn't think anything of it at the time as we were designing for failure but i
   <img src="IMG_7310.jpeg" alt="Second image of the printing process" width="400" height ="400">
   <figcaption>This is the second image I have of the printing </figcaption>
   <img src="IMG_7311.jpeg" alt="Third image of the printing process" width="400" height ="400">
-  <figcaption> This is the Third image I have of the printing at this point I decided it was enough and couldn't be fixed</figcaption>
+  <figcaption> This is the third image I have of the printing at this point I decided it was enough and couldn't be fixed</figcaption>
 </figure>
 
 <video src="Untitled design.mp4" width="400" height="400" controls></video>
