@@ -122,4 +122,15 @@ This video below shows the printing in the 3d printing.
     Your browser does not support the video tag.
   </video>
   <figcaption><i> Figure 15: 3d Print coming alive </i></figcaption>
-</figure>
+</figure>  
+
+Heres a list of websites that helped: 
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=QS4LHS7S8o4&t=1s">How to edit bodies in creo</a></li>
+  <li><a href="https://community.ptc.com/3d-part-assembly-design-327/subtracting-one-body-part-from-another-body-part-88487">How to remove bodies in creo</a></li>  
+  <li><a href="https://community.ptc.com/creo-parametric-tips-390/multibody-how-do-i-position-bodies-131921">Positioning bodies in creo</a></li>  
+  <li><a href="https://support.ptc.com/help/creo/creo_pma/r12/usascii/index.html#page/part_modeling/part_modeling/To_Copy_Move_Mirror_or_Pattern_Bodies.html#">How to copy bodies in creo</a></li>
+  <li><a href="https://support.ptc.com/help/creo/creo_pma/r12/usascii/index.html#page/part_modeling/part_modeling/to_split_bodies.html">How to spilt bodies in creo</a></li>
+  <li><a href="https://www.youtube.com/watch?v=SvI8qrdAr1w">Creating annular snapfits in fusion360</a></li>
+</ul>
