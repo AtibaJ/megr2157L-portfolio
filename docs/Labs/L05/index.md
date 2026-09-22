@@ -59,7 +59,9 @@ With both the raidus and the height looking correct I then decided to create a r
 </figure>
 
 On the top of that revolve I would extrude as shown by the 19 value and create a lip that would become the coupling part. 
-Below the design measurements of the snap fit and the final revolve can be shown below
+Below the design measurements of the snap fit and the final revolve can be shown below  
+
+## Revolving  
 
 <figure>
   <img src = "revolve piece.png" width = "500" height = "500"> 
@@ -108,13 +110,16 @@ Finally I imported the files as stl files and put them into prusa slicer 3d.
   <figcaption><i> Figure 14: This shows off the two pieces in prusa. </i></figcaption>
 </figure>
 
+## What went wrong 
+
 Here are some of the answers I had to the questions that pertained to me
 <ul>
   <li>The Annular Part wouldn't stay connected, when I connected it it kept trying to tear off and my first print is my only good one</li>
   <li>The Piece wouldn't require supports, when I tried to support the annular part it just woulnd't stay and it wouldn't work for me</li>
   <li>The build orientation was chosen so it would lay as flat as possible on the bed.</li>
-</ul>
+</ul>  
 
+## Video of Printing  
 This video below shows the printing in the 3d printing. 
 <figure>
   <video controls width="500" height="500">
@@ -124,6 +129,7 @@ This video below shows the printing in the 3d printing.
   <figcaption><i> Figure 15: 3d Print coming alive </i></figcaption>
 </figure>  
 
+## What helped create this 
 Heres a list of websites that helped: 
 
 <ul>
