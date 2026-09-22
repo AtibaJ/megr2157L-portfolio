@@ -6,7 +6,7 @@ When initially deciding to create a snap fit design I thought I would create a b
 After finding this I began to work on my first design the cantilever beam.  
 
 <figure>
-  <img src="fbd" alt="image of the cantilever beam">
+  <img src="IMG_7476.jpeg" alt="image of the cantilever beam">
   <figcaption><i> Figure 1: This is the first freebody diagram.</i></figcaption>
 </figure>
 
@@ -14,7 +14,7 @@ After designing this though I decided that I didn't like that I decided to creat
 can be found below.  
 
 <figure>
-  <img src="annularfbd" alt="image of the annular fbd parts.">
+  <img src="IMG_7477.jpeg" alt="image of the annular fbd parts.">
   <figcaption><i> Figure 2: This is my second freebody diagram.</i></figcaption>
 </figure>
 
