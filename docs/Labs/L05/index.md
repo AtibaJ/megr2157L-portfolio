@@ -34,7 +34,7 @@ to fit the design parameters needed and an inch to scale to fit the 3.5 safety f
 
 ## Cad Creations 
 
-The first thing I did in cad was to input my parametric equations to create the part, as shown below
+The first thing I did in cad was to input my parametric equations to create the part, as shown below  
 <figure>
   <img src= "L5_ParaDesign2.png" width = "500" height = "500">
   <figcaption><i>Figure 3: This shows the equations mentioned above and how they helped aid in the creo design.</i></figcaption>
@@ -42,9 +42,9 @@ The first thing I did in cad was to input my parametric equations to create the 
 
 Next I was tasked with creating the right fixtures for the parametric equations to work to begin I created a circle. 
 <figure>
-  <img scr= "L5NewDesign2.png" width = "500" height = "500"> 
+  <img src= "L5NewDesign2.png" width = "500" height = "500"> 
   <figcaption><i> Figure 4: This shows off the annular design creation using parametric equations.</i></figcaption>
-</figure>
+</figure>  
 
 Then, after checking the parametric equations were correct I had to check the radii of the male part just to be sure.  
 <figure>
@@ -68,6 +68,14 @@ Below the design measurements of the snap fit and the final revolve can be shown
 <figure>
   <img src="L5AnnularSnap .png" width = "500" height = "500"> 
   <figcaption><i> Figure 8: This shows the lip of the annular design.</i></figcaption>
+</figure>
+
+To create the female coupling it's a little easier I created a body that had the annual male part as a base and cut it into two pieces 
+as shown below. 
+
+<figure> 
+  <img src = "L5ExtrudePart1.png" width = "500" height = "500"> 
+  <figcaption><i> Figure 9: This shows off the cut female part of based on the body of design one</i></figcaption>
 </figure>
 
 
