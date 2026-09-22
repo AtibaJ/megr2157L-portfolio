@@ -18,6 +18,12 @@ can be found below.
   <figcaption><i> Figure 2: This is my second freebody diagram.</i></figcaption>
 </figure>
 
+When I was creating this I researched that because of the stiffness of pla it would require a massive force to expand that annular male piece of the part. 
+The chosen transverse load was the max of five pounds the max allowed and the coefficient of friction was point zero three (the standard for pla on pla as I researched) and the chosen lead angle for my calculations for my design. 
+The axial force I calculated using the transverse expansion mating force being w(cof + tan angle/1-(cof tan angle)) when doing that I got a force of 9.28 lbf which fit the axial load of 5-10 pounds. 
+
+
+
 
 ## Analyze
 
