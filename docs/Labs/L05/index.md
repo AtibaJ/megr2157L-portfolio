@@ -118,9 +118,8 @@ Here are some of the answers I had to the questions that pertained to me
 This video below shows the printing in the 3d printing. 
 <figure>
   <video controls width="500" height="500">
-    <source src="ocean-waves.mp4" type="video/mp4">
-    <source src="ocean-waves.webm" type="video/webm">
+    <source src="L5Video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <figcaption>3d Print coming alive </figcaption>
+  <figcaption><i> Figure 15: 3d Print coming alive </i></figcaption>
 </figure>
