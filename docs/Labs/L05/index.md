@@ -71,12 +71,39 @@ Below the design measurements of the snap fit and the final revolve can be shown
 </figure>
 
 To create the female coupling it's a little easier I created a body that had the annual male part as a base and cut it into two pieces 
-as shown below. 
+as shown below.  
+<figure> 
+  <img src = "L5AnnularSplit.png" width = "500" height = "500"> 
+  <figcaption><i> Figure 9: This shows off the cut female part of based on the body of design one</i></figcaption>
+</figure>   
 
 <figure> 
   <img src = "L5ExtrudePart1.png" width = "500" height = "500"> 
-  <figcaption><i> Figure 9: This shows off the cut female part of based on the body of design one</i></figcaption>
+  <figcaption><i> Figure 10: This shows off the finished cut</i></figcaption>
 </figure>
 
+After doing this I was able to create a merging of the two different bodies to create the female cut without having to do 
+anything extra. 
 
+<figure>
+  <img src = "L5_Assylb.png" width = "500" height = "500"> 
+  <figcaption><i> Figure 11: This shows off the assembly of the part using merge tool. </i></figcaption>
+</figure>
 
+Before constraining I just wanted to make sure my parametric equations were correct otherwise it would print incorrectly. 
+
+<figure>
+  <img src = "L5_ParaDesign2.png" width = "500" height = "500"> 
+  <figcaption><i> Figure 12: This shows off the parametric equations 
+<figure> 
+  
+Then I fully constrained the pieces together 
+
+  <img src = "constrainingpiecesL5.png" width = "500" height = "500"> 
+  <figcaption><i> Figure 12: This shows off constraint of pieces. </i></figcaption>
+</figure>
+
+Finally I imported the files as stl files and put them into prusa slicer 3d. 
+<img src = "constrainingpiecesL5.png" width = "500" height = "500"> 
+  <figcaption><i> Figure 13: This shows off the two pieces in prusa. </i></figcaption>
+</figure>
