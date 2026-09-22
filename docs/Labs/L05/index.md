@@ -10,7 +10,13 @@ After finding this I began to work on my first design the cantilever beam.
   <figcaption><i> Figure 1: This is the first freebody diagram.</i></figcaption>
 </figure>
 
-After designing this though I decided that I didn't like that 
+After designing this though I decided that I didn't like that I decided to create an annular snap fit design. The FBD for both parts 
+can be found below.  
+
+<figure>
+  <img src="annularfbd" alt="image of the annular fbd parts.">
+  <figcaption><i> Figure 2: This is my second freebody diagram.</i></figcaption>
+</figure>
 
 
 ## Analyze
