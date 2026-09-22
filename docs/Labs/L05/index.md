@@ -100,10 +100,27 @@ Before constraining I just wanted to make sure my parametric equations were corr
 Then I fully constrained the pieces together 
 
   <img src = "constrainingpiecesL5.png" width = "500" height = "500"> 
-  <figcaption><i> Figure 12: This shows off constraint of pieces. </i></figcaption>
+  <figcaption><i> Figure 13: This shows off constraint of pieces. </i></figcaption>
 </figure>
 
 Finally I imported the files as stl files and put them into prusa slicer 3d. 
-<img src = "constrainingpiecesL5.png" width = "500" height = "500"> 
-  <figcaption><i> Figure 13: This shows off the two pieces in prusa. </i></figcaption>
+<img src = "L5Prusa.png" width = "500" height = "500"> 
+  <figcaption><i> Figure 14: This shows off the two pieces in prusa. </i></figcaption>
+</figure>
+
+Here are some of the answers I had to the questions that pertained to me
+<ul>
+  <li>The Annular Part wouldn't stay connected, when I connected it it kept trying to tear off and my first print is my only good one</li>
+  <li>The Piece wouldn't require supports, when I tried to support the annular part it just woulnd't stay and it wouldn't work for me</li>
+  <li>The build orientation was chosen so it would lay as flat as possible on the bed.</li>
+</ul>
+
+This video below shows the printing in the 3d printing. 
+<figure>
+  <video controls width="500" height="500">
+    <source src="ocean-waves.mp4" type="video/mp4">
+    <source src="ocean-waves.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>3d Print coming alive </figcaption>
 </figure>
