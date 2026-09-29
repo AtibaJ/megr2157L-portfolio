@@ -56,7 +56,15 @@ Below the cad extrude can be shown.
 
 This was the only real change I had to add to the design below are pictures of the L5 lab and how it looked being created just for the sake of documentation. 
 
+<figure>
+  <img src= "L5AnnularSplit.png" width = "500" height = "500">
+  <figcaption><i>Figure 6: This shows the starting body from the originial part.</i></figcaption>
+</figure> 
 
+<figure>
+  <img src= "L5AnnularSnap.png" width = "500" height = "500">
+  <figcaption><i>Figure 7: This shows the snap of the orignial part.</i></figcaption>
+</figure> 
 
 
 ## Documentation
@@ -65,12 +73,12 @@ Below a video of the cad model being sliced and a video of the prusa slicer prin
 
 <figure>
   <img src= "L6AnnularPrint.png" width = "500" height = "500">
-  <figcaption><i>Figure 5: This shows the extrude that helps stick the outer point of the motor so it won't break the snapping part.</i></figcaption>
+  <figcaption><i>Figure 8: This shows the extrude that helps stick the outer point of the motor so it won't break the snapping part.</i></figcaption>
 </figure> 
 
 <figure>
   <img src= "L6AnnularPrint2.png" width = "500" height = "500">
-  <figcaption><i>Figure 5: This shows the extrude that helps stick the outer point of the motor so it won't break the snapping part.</i></figcaption>
+  <figcaption><i>Figure 9: This shows the extrude that helps stick the outer point of the motor so it won't break the snapping part.</i></figcaption>
 </figure> 
 
 ## Video of Printing  
@@ -80,7 +88,7 @@ This video below shows the printing in the 3d printing.
     <source src="202609291204.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <figcaption><i> Figure 6: 3d Print coming alive </i></figcaption>
+  <figcaption><i> Figure 10: 3d Print coming alive </i></figcaption>
 </figure>  
 
 
