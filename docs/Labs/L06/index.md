@@ -73,6 +73,14 @@ Below a video of the cad model being sliced and a video of the prusa slicer prin
   <figcaption><i>Figure 5: This shows the extrude that helps stick the outer point of the motor so it won't break the snapping part.</i></figcaption>
 </figure> 
 
+## Video of Printing  
+This video below shows the printing in the 3d printing. 
+<figure>
+  <video controls width="500" height="500">
+    <source src="202609291204.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption><i> Figure 6: 3d Print coming alive </i></figcaption>
+</figure>  
 
-## Communicate
 
