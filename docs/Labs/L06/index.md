@@ -46,7 +46,15 @@ from the last lab.
 The only problem I had with this was going into it my annular design from the last week didn't have a open top and since that as the only
 part blocking the motor from being a snap fit I decided to extrude this in cad. 
 Leaving the designs the same and trying to rush the prints was my own fault I realize now that I should've put more thought into how that design choice would translate.
+
 Below the cad extrude can be shown. 
+
+<figure>
+  <img src= "L6AnnularEx.png" width = "500" height = "500">
+  <figcaption><i>Figure 5: This shows the extrude that helps stick the outer point of the motor so it won't break the snapping part.</i></figcaption>
+</figure> 
+
+This was the only real change I had to add to the design below are pictures of the L5 lab and how it looked being created just for the sake of documentation. 
 
 
 
