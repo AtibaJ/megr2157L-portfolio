@@ -63,6 +63,16 @@ This was the only real change I had to add to the design below are pictures of t
 
 Below a video of the cad model being sliced and a video of the prusa slicer printer can be seen. 
 
+<figure>
+  <img src= "L6AnnularPrint.png" width = "500" height = "500">
+  <figcaption><i>Figure 5: This shows the extrude that helps stick the outer point of the motor so it won't break the snapping part.</i></figcaption>
+</figure> 
+
+<figure>
+  <img src= "L6AnnularPrint2.png" width = "500" height = "500">
+  <figcaption><i>Figure 5: This shows the extrude that helps stick the outer point of the motor so it won't break the snapping part.</i></figcaption>
+</figure> 
+
 
 ## Communicate
 
