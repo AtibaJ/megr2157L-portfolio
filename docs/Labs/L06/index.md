@@ -7,6 +7,39 @@ design would be perfect for this and thankfully it was. When it comes to the par
 
 The pictures below show the parametric designing process. 
 
+## FBD 
+<figure>
+  <img src="IMG_7477.jpeg" alt="image of the annular fbd parts." width="500" height ="500">
+  <figcaption><i> Figure 1: This is my second freebody diagram.  </i></figcaption>
+</figure>   
+
+Though this is the same free body diagram the math was created for this part so it still sticks.
+
+## Parametric Cad Settings 
+
+This is when I was first inputting the equations that govern the design
+
+<figure>
+  <img src= "L5_ParaDesign2.png" width = "500" height = "500">
+  <figcaption><i>Figure 2: This shows the equations mentioned above and how they helped aid in the creo design.</i></figcaption>
+</figure>  
+
+
+This shows how the equations aided in the design of my creo project. 
+
+<figure>
+  <img src= "parametric_design.png" width = "500" height = "500">
+  <figcaption><i>Figure 3: This shows the equations mentioned above were used in the string values.</i></figcaption>
+</figure>  
+
+This second picture shows more about how I had to create the design parametrically, this saved me a bit of time having these equations 
+from the last lab. 
+
+<figure>
+  <img src= "parametric_design_two.png" width = "500" height = "500">
+  <figcaption><i>Figure 4: This shows the equations mentioned above and more on how they helped.</i></figcaption>
+</figure>  
+
 ## Cad Designing 
 
 The only problem I had with this was going into it my annular design from the last week didn't have a open top and since that as the only
