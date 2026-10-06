@@ -23,6 +23,14 @@ __Sources for 1__
 
 <a href="https://www.mdpi.com/2075-1702/14/2/175" target="_blank">Peer reviewed article</a>
 
+## Picture of part 1: 
+
+<figure>
+  <img src= "1.png" width = "500" height = "500">
+  <figcaption><i>Figure 1 Pic: This shows the part.</i></figcaption>
+</figure> 
+
+
 <ol>
   <li> Monolithic Compliant Constant-Force Linkage
   <ul>
@@ -41,6 +49,14 @@ __Sources for 2__
 <a href="https://doi.org/10.1016/j.mechmachtheory.2021.104350" target="_blank">Mechanism and Machine Theory</a>
 
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12301602/">U.S. Patent</a>
+
+## Figure Two Pic 
+
+<figure>
+  <img src= "2.png" width = "500" height = "500">
+  <figcaption><i>Figure 2 Pic: This shows the part.</i></figcaption>
+</figure> 
+
 
 
 ## My Design
