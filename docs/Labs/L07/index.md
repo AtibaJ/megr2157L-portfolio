@@ -228,8 +228,35 @@ Lastly I would check the slice time as shown below.
 <figure>
   <img src= "L07PRUSA3.png" width = "500" height = "500">
   <figcaption><i>Figure 17: This shows the change in prusa.</i></figcaption>
+</figure>
+
+These are photos at different points of the part being printed. 
+
+This is how the print started looking after a couple of minutes.
+<figure>
+  <img src= "L07Print1.jpeg" width = "500" height = "500">
+  <figcaption><i>Figure 18: This shows the print after 10% in the printer.</i></figcaption>
+</figure>
+
+This shows the print after around 20%. 
+<figure>
+  <img src= "L07Print2.jpeg" width = "500" height = "500">
+  <figcaption><i>Figure 19: This shows the print after 20% in the printer.</i></figcaption>
+</figure>
+
+  This shows the print after about 50% and its looking like my cad files. 
+
+<figure>
+  <img src= "L07Print3.jpeg" width = "500" height = "500">
+  <figcaption><i>Figure 20: This shows the print after 50% in the printer.</i></figcaption>
 </figure
 
-These are videos at different points of the part being printed. 
+
+  This is the final part of the print right after the printer finished. 
+
+  <figure>
+  <img src= "IMG_7644.jpeg" width = "500" height = "500">
+  <figcaption><i>Figure 21: This shows the print after 20% in the printer.</i></figcaption>
+</figure
 ## Communicate
 
