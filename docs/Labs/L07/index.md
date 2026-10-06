@@ -86,11 +86,18 @@ annular designs of the last two weeks.
 
 To start I created a new part file in creo this would be for the creation of the connection pieces (scissor of the design). 
 Below an image of what it looks like can be shown. I started with two circles and just connected them by two lines to create the entire pieces. 
+
 <figure>
   <img src= "L07Cad#1.png" width = "500" height = "500">
   <figcaption><i>Figure 1: This shows the connection of the two circles.</i></figcaption>
 </figure> 
 
+Next I would extrude this part to give the piece a thickness I would be careful not to create a part too thick otherwise the pins would have to be extra long. Keeping that in mind what I came up with is below. 
+
+<figure>
+  <img src= "LO7CAD#2.png" width = "500" height = "500">
+  <figcaption><i>Figure 1: This shows the connection of the two circles.</i></figcaption>
+</figure> 
 
 
 ## Decide
