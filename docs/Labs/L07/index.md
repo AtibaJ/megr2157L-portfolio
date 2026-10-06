@@ -183,8 +183,37 @@ Finally I would check to see if this work and if all constraints were met and wh
 </figure> 
 
 
-## Decide
+## Prusa 
 
+The first thing I did was add the pin connction and while I was adding the pin connection I had the thought of changing the dimension to
+make the pin longer. I did this to have more clearance on my pins. 
 
+<figure>
+  <img src= "L07PRUSA1.png" width = "500" height = "500">
+  <figcaption><i>Figure 14: This shows the pin and the longer length of it.</i></figcaption>
+</figure> 
+
+The next thing I did was add the connection pieces into the part. I did this by leaving the connection at the length created from creo. As you can see in the Prusa below. 
+
+<figure>
+  <img src= "L07PRUSA2.png" width = "500" height = "500">
+  <figcaption><i>Figure 15: This shows the connection in prusa.</i></figcaption>
+</figure> 
+
+I heard when looking up 3d part connections that pla would be better so I decided to change the print from the original petg I had.  
+
+<figure>
+  <img src= "L07PRUSA3.png" width = "500" height = "500">
+  <figcaption><i>Figure 16: This shows the change in prusa.</i></figcaption>
+</figure
+
+Lastly I would check the slice time as shown below. 
+
+<figure>
+  <img src= "L07PRUSA3.png" width = "500" height = "500">
+  <figcaption><i>Figure 17: This shows the change in prusa.</i></figcaption>
+</figure
+
+These are videos at different points of the part being printed. 
 ## Communicate
 
