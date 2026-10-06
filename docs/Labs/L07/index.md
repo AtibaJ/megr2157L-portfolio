@@ -258,5 +258,21 @@ This shows the print after around 20%.
   <img src= "IMG_7644.jpeg" width = "500" height = "500">
   <figcaption><i>Figure 21: This shows the print after 20% in the printer.</i></figcaption>
 </figure
-## Communicate
+
+
+## Lessons Learned 
+
+<ul>
+  <li>
+    The total amount of time this took was around nine hours mainly spent on the research part of this project. I spent around only an hour doing the print as it was quick and easy and my print thankfully worked the first time. I think the cad files only spent around the time of three hours as it was easy. 
+  </li>
+
+  <li>
+    The biggest mistake I found was not adding the split down the connection pins when I was first making the design. I saw from youtube videos based on these types of 3d prints that adding the split down the body of the connection pin could make it last longer. When I saw that I split the datum plane to have the split by drawing a square on it. 
+  </li>
+
+  <li>
+    The first print I had did work so I didn't need to change the tolerances as it worked easily. When I was creating the cad file I created it like an annular snap fit so I wanted the parts to be more snug and thankfully that worked. Looking back if I had to redo this project I don't think I would change a thing. 
+  </li>
+</ul>
 
