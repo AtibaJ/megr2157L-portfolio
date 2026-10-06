@@ -1,4 +1,4 @@
-# A7 – [Linkage Designs]
+# L07 – [Linkage Designs]
 
 ## Research 
 
@@ -81,6 +81,15 @@ annular designs of the last two weeks.
   the design last longer with the connection pieces as I was worried I'd have to print multiple times. </li>
   <li>Large tips for the ends of the pins: I wanted the ends of my pins to be a little bigger so I'd be able to grab them when I connected my pieces.</li>
 </ol>
+
+## Cad Designs 
+
+To start I created a new part file in creo this would be for the creation of the connection pieces (scissor of the design). 
+Below an image of what it looks like can be shown. I started with two circles and just connected them by two lines to create the entire pieces. 
+<figure>
+  <img src= "L07Cad#1.png" width = "500" height = "500">
+  <figcaption><i>Figure 1: This shows the connection of the two circles.</i></figcaption>
+</figure> 
 
 
 
