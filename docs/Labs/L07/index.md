@@ -45,6 +45,43 @@ __Sources for 2__
 
 ## My Design
 
+The purpose of my design was to create an adjustable scissor design, this will be used in future projects for me when I create a scissor lift. When creating this I only needed to create two parts the linkages themselves and the connection pins. 
+
+<table>
+  <thead>
+    <tr>
+      <th>Connection</th>
+      <th>Pin</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td>Function: Snapping to the pins and moving at angles to create a scissor design</td>
+      <td>Printed</td>
+    </tr>
+    <tr>
+      <td>Snapping into the connector pieces and supporting weight of other pins.</td>
+      <td>Printed</td>
+    </tr>
+  </tbody>
+</table>
+
+## Tolerances
+
+I designed the pieces to be tolerant in cad and was going to test how the different prints reacted with the cad design. I thought that
+creating a tight fit i.e. having the holes be the same diameter of the pins I would get a better snap fit as I learned from my 
+annular designs of the last two weeks. 
+
+## Three Key Points 
+
+<ol>
+  <li>Multiple holes on connections: I did multiple holes for the connection pieces so I could vary what length was needed for
+  the connection</li>
+  <li>Creating a split down the hole of the pin: This was done to relieve stress as I learned from a youtube video it can help 
+  the design last longer with the connection pieces as I was worried I'd have to print multiple times. </li>
+  <li>Large tips for the ends of the pins: I wanted the ends of my pins to be a little bigger so I'd be able to grab them when I connected my pieces.</li>
+</ol>
+
 
 
 ## Decide
