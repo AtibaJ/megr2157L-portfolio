@@ -249,7 +249,7 @@ This shows the print after around 20%.
 <figure>
   <img src= "L07Print3.jpeg" width = "500" height = "500">
   <figcaption><i>Figure 20: This shows the print after 50% in the printer.</i></figcaption>
-</figure
+</figure>
 
 
   This is the final part of the print right after the printer finished. 
@@ -257,7 +257,16 @@ This shows the print after around 20%.
   <figure>
   <img src= "IMG_7644.jpeg" width = "500" height = "500">
   <figcaption><i>Figure 21: This shows the print after 20% in the printer.</i></figcaption>
-</figure
+  </figure>
+
+  <figure>
+  <video controls width="500" height="500">
+    <source src="202609291204.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption><i> Figure 10: 3d Print coming alive </i></figcaption>
+</figure>  
+
 
 
 ## Lessons Learned 
