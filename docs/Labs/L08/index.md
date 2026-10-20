@@ -101,6 +101,15 @@ rounding's for it. Using the body feature in Creo it can inherit the shapes cont
 
 The body would be created and both parts would be shelled the same so I could continue to prusa slicer. 
 
+## 3D Printing
+
+<ol>
+  <li>I used machine number 8.</li>
+  <li>I didn't find a use for a raft in my design</li>
+  <li>The wall thickness was 0.7 mm</li>
+  <li></li>
+</ol>
+
 
 ## Analyze
 
