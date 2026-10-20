@@ -107,15 +107,23 @@ The body would be created and both parts would be shelled the same so I could co
   <li>I used machine number 8.</li>
   <li>I didn't find a use for a raft in my design</li>
   <li>The wall thickness was 0.7 mm</li>
-  <li></li>
+  <li>I used the monotonic Infil because it was the first one I saw I didn't think it mattered too much how it was infilled for this design.</li>
+  <li>I had no use for supports on this design</li>
+  <li>In my print 160 layers are used</li>
+  <li>The layer thickness is about 0.2mm</li>
+  <li>In inches 269.24 is the volume of this surface</li>
+  <li>I did the layout the way I did because I knew the hole on the bottom would be hard to create from the top so I had the base sit on the bottom with the hole. I thought it would be easier to have the top also sit on the right side up as well.</li>
+  <li>In prusa I kept all my settings the same and didn't change anything as I thought everything would be perfect. I kept the material pla as it has a lower buring point than petg which would be needed with so many layers. I kept my infil at 15%, and everything was unchanged I just sliced the gcode and printed.</li>
+  <li>The only thing of note for the slice was that my print was at risk of a lot of overhang at the top due to the way the top was being printed.</li>
 </ol>
 
 
-## Analyze
+## Lessons Learned
+This print taught me a lot more than I realized, when printing I learned that even if you do get the measurements from a trusted
+source like apple it is imperative that you double check for yourself. The reasoning for this is that the airpod case was a
+tad bit bigger than what apple had placed on its own website which led to a failed print in the beginning. This was also the first 
+time I had to create a print while using pla as an important factor as using petg led to a melting mess in the printer. I learned how 
+important it is to considered the equipment when designing around my artifacts like the last time. 
 
-
-## Decide
-
-
-## Communicate
+The time it took from start to finish was around 6 hours. 
 
