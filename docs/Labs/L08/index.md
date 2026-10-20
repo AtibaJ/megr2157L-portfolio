@@ -55,7 +55,7 @@ air pods charging case are only 64 mm long this is where our circle's radius com
 
 
 <figure>
-  <img src= "L08Fifth.png" width = "500" height = "500">
+  <img src= "L08Fifth .png" width = "500" height = "500">
   <figcaption><i>Figure 5 Pic: This shows the base of down being sketched for the hole.</i></figcaption>
 </figure> 
 
