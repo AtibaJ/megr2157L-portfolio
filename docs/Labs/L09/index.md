@@ -333,8 +333,16 @@ was already scrubbed this was the only option my partner and I saw.
   </video>
 </figure>  
 
+__Other Questions__ 
 
+As you can see our parts were arranged that way in order to save the most amount of wood as possible, we didn't feel a need to cut out
+or waste wood by putting in in the middle and arranging the pieces anywhere on the wood so it was chosen to have the pieces in the top 
+left corner. 
 
+The air quality and ventilation from the printing was great as can be shown in the video. Whenever we printed out a part you could see 
+a fire be pit down before it could even start. As well as the smoke would be sucked through the vents before it began to cloud the laser 
+cutter too much we would say both the air quality and ventilation were great. Though the edge was a bit burned I think it comes from the
+fact it was a laser printed part. 
 
 
 
@@ -410,27 +418,64 @@ __Laser Process Record__
   <td>Top-left corner of sheet using laser pointer jog</td>
 </tr>
 
-
-
-
-
-
-
-
 </table>
-
-__Air assist and Exhaust observations__ 
-
-While laser cutting my partner and I noticed how quickly the potential fires from the prints were dissipated. While the high powered laser cut the 
-wood, the air extinguished the fires that came about. We noticed how even after the print was done though a smell persisted, no matter how big or 
-small the print was there the smell of burning wood stayed. 
-
-__Edge Quality__ 
-
-We can see how the edges are very high quality you can see the burns on the outlines of the gear. This was an expected outcome as the laser burns 
-away at the wood, there wouldn't be anyway to improve this, as the laser has to cut this way. 
-
-
 
 ## Lessons Learned 
 
+
+__Process Log__ 
+
+<table>
+  <th> Date and Time</th>
+  <th> Time spent</th>
+  <th> What changed</th>
+
+  <tr>
+    <td>10/24/26</td>
+    <td>6 hours</td>
+    <td>Cad drawings began and completed, creation of the gears and shafts and uploading them as a pdf file into the laser printing software and documentation began </td>
+  </tr>
+
+  <tr>
+    <td>10/25/26</td>
+    <td>4 hours</td>
+    <td> Talks about how we want to do the documention moving forward and how we can test on the upcoming monday</td>
+  </tr>
+
+  <tr>
+    <td>10/26/26</td>
+    <td>5 hours</td>
+    <td>The kerf values being fully tested, as well as the values for the wood actually being fact checked. The final kit was also fully printed out here. Documentation was being completed </td>
+  </tr>
+</table>
+
+__mistakes__ 
+
+One mistake we made was having to press one of the pieces of our print out, we assume this is because of a value of the vector of the 
+laser but it didn't go fully through down to the bottom. Another mistake was a bad connection on the kerf connection to our plate as we had to glue it to make sure it didn't fall. As this was our final print we didn't get the chance to really change anything since the part
+still worked once it was out.
+
+__List of resources used__ 
+
+<ol>
+  <li>Wood</li>
+  <li>Laser Printer</li>
+  <li>Glue stick</li>
+  <li>Calipers</li>
+  <li>Ruler</li>
+</ol>
+
+__4 Questions to answer__ 
+<ol>
+  <li>The measured values different from the nominal values of wood at our thickness. If we had just assumed these values we could've damaged
+the machine by making the laser go down more than it may need to or the cut could've been off. If we assumed the kerf value our pieces 
+wouldn't have moved at all since it was important to know how much material could be blasted away in the process of lasering.</li> 
+  <li>Taguchi’s quality loss function states that quality is not a simple any deviation from the target value incurs a cost with loss growing
+    deviation increases if we were to use our gears as an example if we were to be off the tolerance the part could wobble and not sit tight. If we were
+    to mass produce this it could break warrenty and create safety concerns or even damage the brand of who ever produced it</li>
+  <li>A shelf I once had was laser cut from a piece of ply wood, if the kerf was messed up it would mean that nothing in the product could work the fits 
+  would either be too small or too large if the kerf isn't accounted for.</li>
+  <li>If given one more cut I would probably change the clearance on the gears themselves. The reason I would change this is because I think it would be 
+  interesting to find the maximum clearance that the gears would allow for. We used a safe comfortable medium in our design and I think exploring would 
+  be interesting.</li>
+</ol>
