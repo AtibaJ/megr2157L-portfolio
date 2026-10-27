@@ -262,9 +262,26 @@ laser cutting unlike 3d printings filaments. When a company may need materials w
 best option. Lastly the control laser cutting gives you is also better than the typical Fdm printing we've been using as we can create 
 more variables for a more custom fitting part. 
 
-## Videos 
+__Photos__
 
-## Photos 
+After designing the parts in solid works we created a drawing and then uplodaded that drawing as a pdf to be used to upload to the laser
+cutter as shown below. 
+
+<figure>
+  <img src = "Screenshot_26.jpg" width = "500" height = "500">
+  <figcaption> Showing the parts in solidwords drawing</figcaption>
+</figure> 
+
+<figure>
+  <img src = "Screenshot_27.jpg" width = "500" height = "500">
+  <figcaption> Showing the parts in pdf file uploaded to laser printing software</figcaption>
+</figure> 
+
+__Video__
+
+
+
+
 
 __Laser Process Record__
 <table> 
@@ -316,7 +333,7 @@ __Laser Process Record__
 
 <tr>
   <td>Number of passes</td>
-  <td>8</td>
+  <td>4</td>
   <td>1</td>
 </tr>
 
