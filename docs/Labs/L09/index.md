@@ -308,7 +308,31 @@ cutter as shown below.
   <figcaption> Showing the parts in pdf file uploaded to laser printing software</figcaption>
 </figure> 
 
-__Video__
+__Videos__
+The videos of the parts being laser cut had to be cut down in order to fit with the 25 mbs or less requirement in github. As the audio 
+was already scrubbed this was the only option my partner and I saw. 
+
+ <figure>
+  <video controls width="500" height="500">
+    <source src="Kit_cutting.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>  
+
+ <figure>
+  <video controls width="500" height="500">
+    <source src="Kit_cutting2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>  
+
+ <figure>
+  <video controls width="500" height="500">
+    <source src="Kit_cutting3.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>  
+
 
 
 
