@@ -4,12 +4,12 @@
 
 The first thing my partner and I did was decided the variables that we would need for our own parts namely the thickness and kerf measurements, as shown below. 
 
-__Thickness__
+__Thickness__  
 When beginning this part my partner and I began by measuring the wood that we were given from three different points. When measuring 
 we got values of 0.10,0.12, 0.10, we got an average value of 0.1117 inches for our piece of wood, as shown below by the pictures of 
 the measuring values. The value of 0.117 would now end up being our material thickness variable in the cad parameters. 
 
-__Kerf measurement__ 
+__Kerf measurement__   
 
 When putting in a 12 by 12 mm square into the laser cutter, we got a final kerf measurement of 0.009 in, as this was the difference 
 in size from the part in our cad and the part when cut with the laser. 
@@ -156,7 +156,8 @@ shafts and constraining it.
 
 
 
-Next, we would put these on the plate and check how it fits together first we have to add these parts, starting with our plate, and creating a new assembly.
+Next, we would put these on the plate and check how it fits together first we have to add these parts, starting with our plate, 
+and creating a new assembly.
 
 <figure>
   <img src = "Screenshot_21.jpg" width = "500" height = "500">
@@ -199,7 +200,10 @@ __Parameter Data__
     Variable Name
   </th>
   <th>
-    Value Unit Source (measured or chosen) 
+    Value (in)
+  </th>
+  <th>
+    Unit Source (measured or chosen) 
   </th>
   <th>
     What it controls  
@@ -208,24 +212,38 @@ __Parameter Data__
 
 <tr>
   <td>Thickness</td>
+  <td>0.1117</td>
+  <td>Measured (Step 1)</td>
+  <td>The thickness of the material </td>
 </tr>
 
 <tr>
   <td>Kerf</td>
+  <td>0.009</td>
+  <td>Measured (Step 2)</td>
+  <td>The amount of material blown away by the laser</td>
 </tr>
 
 <tr>
   <td>Clearance</td>
+  <td>0.002</td>
+  <td>Chosen (Step 4)</td>
+  <td>This controls how tight the parts will be too each other</td>
 </tr>
 
 <tr>
   <td>Slot width</td> 
+  <td>0.5 radius</td>
+  <td>Chosen</td>
+  <td>This controls how large the holes created to slot in the plates are</td>
 </tr>
 
 <tr>
   <td>Hole's Distance</td>
   <td>1.125</td>
+  <td>Chosen</td>
   <td>This controls the distance of holes for the base plate</td>
+  
 </tr>
 
 </table>
