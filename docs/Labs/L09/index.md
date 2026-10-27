@@ -266,6 +266,87 @@ more variables for a more custom fitting part.
 
 ## Photos 
 
+__Laser Process Record__
+<table> 
+  <th>Setting</th>
+  <th>Kerf Coupon</th>
+  <th>Cut</th>
+
+<tr>
+  <td>Laser Cutter Number</td>
+  <td>1</td>
+  <td>1</td>
+</tr>
+
+<tr>
+  <td>Material type</td>
+  <td>Wood</td>
+  <td>Wood</td>
+</tr>
+
+<tr>
+  <td>Nominal thickness</td>
+  <td>1/8 in</td>
+  <td>1/8 in</td>
+</tr>
+
+<tr>
+  <td>Measured thickness (mean, in)</td>
+  <td>1.117</td>
+  <td>1.117</td>
+</tr>
+
+<tr>
+  <td>Speed</td>
+  <td>20%</td>
+  <td>20%</td>
+</tr>
+
+<tr>
+  <td>Power</td>
+  <td>100%</td>
+  <td>100%</td>
+</tr>
+
+<tr>
+  <td>Frequency</td>
+  <td>20%</td>
+  <td>20%</td>
+</tr>
+
+<tr>
+  <td>Number of passes</td>
+  <td>8</td>
+  <td>1</td>
+</tr>
+
+<tr>
+  <td>Focus method and how confirmed it	</td>
+  <td>Auto focus | confirmed by Lowered the laser head until the spacer block slid snugly between the nozzle tip and the top surface of the measured material sheet without pinching </td>
+  <td>Auto focus | confirmed by Lowered the laser head until the spacer block slid snugly between the nozzle tip and the top surface of the measured material sheet without pinching </td>
+</tr>
+
+<tr>
+  <td>Air assist on? Exhaust on?</td>
+  <td>Yes | Yes </td>
+  <td>Yes | Yes </td>
+</tr>
+
+<tr>
+  <td>How you set origin and alignment</td>
+  <td>Top-left corner of sheet using laser pointer jog</td>
+  <td>Top-left corner of sheet using laser pointer jog</td>
+</tr>
+
+
+
+
+
+
+
+
+</table>
+
 __Air assist and Exhaust observations__ 
 
 While laser cutting my partner and I noticed how quickly the potential fires from the prints were dissipated. While the high powered laser cut the 
