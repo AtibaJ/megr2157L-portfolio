@@ -14,13 +14,20 @@ __Kerf measurement__
 When putting in a 12 by 12 mm square into the laser cutter, we got a final kerf measurement of 0.009 in, as this was the difference 
 in size from the part in our cad and the part when cut with the laser. 
 
-First we added the parameters in cad to begin the parametric modeling as shown below. 
+First we added the 12 by 12 square to solid works.  
 <figure>
-  <img src = "Screenshot_1.jpg" width = "500" height = "500">
-  <figcaption> Showing the first parametric decisions</figcaption>
+  <img src = "kerf_test1.jpg" width = "500" height = "500">
+  <figcaption> Showing the first kerf test</figcaption>
 </figure>    
 
-Below is a video of the kerf being laser cut out 
+Next we would put this into a pdf to be laser cut, as shown below. 
+
+<figure>
+  <img src = "kerf_test2.jpg" width = "500" height = "500">
+  <figcaption> Showing the second kerf test file</figcaption>
+</figure>    
+
+Last we would cut out this square and test how far off it is. Below is a video of the kerf being laser cut out 
 
  <figure>
   <video controls width="500" height="500">
@@ -28,6 +35,21 @@ Below is a video of the kerf being laser cut out
     Your browser does not support the video tag.
   </video>
 </figure>  
+
+After we cut it we just had to measure it as shown below this is our kerf value of 0.004. 
+
+  <img src = "IMG_9797.jpeg" width = "500" height = "500">
+  <figcaption> Showing the offset of the wood to the first measurement</figcaption>
+</figure>    
+
+
+After this we could finally being to create our gear ratio. 
+
+First we added the parameters in cad to begin the parametric modeling as shown below. 
+<figure>
+  <img src = "Screenshot_1.jpg" width = "500" height = "500">
+  <figcaption> Showing the first parametric decisions</figcaption>
+</figure>    
 
 Next we would begin by creating the size of the base of our part which would be 4 by 3 inches as shown below,
 
