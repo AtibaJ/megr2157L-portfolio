@@ -20,6 +20,15 @@ First we added the parameters in cad to begin the parametric modeling as shown b
   <figcaption> Showing the first parametric decisions</figcaption>
 </figure>    
 
+Below is a video of the kerf being laser cut out 
+
+ <figure>
+  <video controls width="500" height="500">
+    <source src="Kerf_cutting.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>  
+
 Next we would begin by creating the size of the base of our part which would be 4 by 3 inches as shown below,
 
 <figure>
