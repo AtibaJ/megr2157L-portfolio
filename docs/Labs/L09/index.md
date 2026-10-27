@@ -37,7 +37,7 @@ Last we would cut out this square and test how far off it is. Below is a video o
 </figure>  
 
 After we cut it we just had to measure it as shown below this is our kerf value of 0.004. 
-
+<figure>
   <img src = "IMG_9797.jpeg" width = "500" height = "500">
   <figcaption> Showing the offset of the wood to the first measurement</figcaption>
 </figure>    
