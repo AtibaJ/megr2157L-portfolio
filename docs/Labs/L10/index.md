@@ -16,6 +16,7 @@ In order to counteract polymerization shrinkage we had to create a larger offset
 
 ## Cad Design (Part A) 
 
+We started in solid works with a 0.20 in by .50 in rectangle and extruded it allowing for a tolerance of 0.05 as shown below. 
 
 
 
