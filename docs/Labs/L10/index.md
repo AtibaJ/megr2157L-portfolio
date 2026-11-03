@@ -59,11 +59,59 @@ Picture of the final design
 
 <figure>
   <img src = "Screenshot_6.jpg" width = "500" height = "500">
-  <figcaption> Showing the fifth screenshot</figcaption>
+  <figcaption> Showing the sixth screenshot</figcaption>
 </figure> 
 
 
+
 ## Cad Design (Part B) 
+
+To begin we created a rectangle and extruded the upper and bottom sides so it would be able to latch onto the number slider as shown below this is our first
+design.
+
+<figure>
+  <img src = "Screenshot_7.jpg" width = "500" height = "500">
+  <figcaption> Showing the seventh screenshot</figcaption>
+</figure> 
+
+Next we created an extrude on the front face of this rectangle to remove material and create a way to see the other numbers, as shown below. 
+
+<figure>
+  <img src = "Screenshot_8.jpg" width = "500" height = "500">
+  <figcaption> Showing the eight screenshot</figcaption>
+</figure> 
+
+After that we created a harsher lip for the slider so the latching would be more consistent as shown below.  
+
+
+<figure>
+  <img src = "Screenshot_9.jpg" width = "500" height = "500">
+  <figcaption> Showing the ninth screenshot</figcaption>
+</figure> 
+
+Then we rounded the inside of this to release some of the stress within the part itself. 
+
+<figure>
+  <img src = "Screenshot_10.jpg" width = "500" height = "500">
+  <figcaption> Showing the tenth screenshot</figcaption>
+</figure> 
+
+Final Part design
+
+<figure>
+  <img src = "Screenshot_11.jpg" width = "500" height = "500">
+  <figcaption> Showing the tenth screenshot</figcaption>
+</figure> 
+
+Final Product design 
+
+<figure>
+  <img src = "Screenshot_12.jpg" width = "500" height = "500">
+  <figcaption> Showing the tenth screenshot</figcaption>
+</figure> 
+
+
+
 
 
 ## Analyze
