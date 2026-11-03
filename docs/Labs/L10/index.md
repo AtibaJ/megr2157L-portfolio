@@ -18,8 +18,52 @@ In order to counteract polymerization shrinkage we had to create a larger offset
 
 We started in solid works with a 0.20 in by .50 in rectangle and extruded it allowing for a tolerance of 0.05 as shown below. 
 
+<figure>
+  <img src = "Screenshot_1.jpg" width = "500" height = "500">
+  <figcaption> Showing the first screenshot</figcaption>
+</figure>    
+
+Afterwards We extruded another part for the slider to be able to rest on when selecting numbers as shown below, this was needed so the slider couldn't go 
+farther than what we needed to go. 
+
+<figure>
+  <img src = "Screenshot_2.jpg" width = "500" height = "500">
+  <figcaption> Showing the second screenshot</figcaption>
+</figure>   
+
+Then we Did the same for the other side just to in sure the slider wouldn't fall apart, again required so the slider won't be ajustiable past a certain 
+distance. 
+
+<figure>
+  <img src = "Screenshot_3.jpg" width = "500" height = "500">
+  <figcaption> Showing the third screenshot</figcaption>
+</figure> 
+
+Next we engraved the numbers onto the plate so we can keep track with our slider as shown below. 
 
 
+<figure>
+  <img src = "Screenshot_4.jpg" width = "500" height = "500">
+  <figcaption> Showing the forth screenshot</figcaption>
+</figure> 
+
+Lastly to finish the shaft we add boarders onto it for better appeal, as shown below. 
+
+<figure>
+  <img src = "Screenshot_5.jpg" width = "500" height = "500">
+  <figcaption> Showing the fifth screenshot</figcaption>
+</figure> 
+
+Picture of the final design 
+
+
+<figure>
+  <img src = "Screenshot_6.jpg" width = "500" height = "500">
+  <figcaption> Showing the fifth screenshot</figcaption>
+</figure> 
+
+
+## Cad Design (Part B) 
 
 
 ## Analyze
