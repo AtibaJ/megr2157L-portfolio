@@ -111,7 +111,25 @@ Final Product design
 </figure> 
 
 
+## Preprocessing 
 
+## Postprocessing 
+<ul>
+  <li>Washing: Cleaned in Isopropyl Alcohol (IPA > 99%) for 10 minutes in an automated wash station to strip unpolymerized surface resin.  </li>
+  <li>Support Removal: Supports carefully snipped flush with diagonal cutters prior to UV curing to prevent localized stress marks on precision faces.  </li>
+  <li>Curing: Post-cured in a UV chamber at 60°C for 15 minutes. </li>
+  <li>Surface Finish & Inspection: Surfaces exhibited smooth matte finishes.</li>
+  <li>No visible warping  was observed across the primary sliding surfaces.</li>
+</ul>
+
+## Fit test
+
+## Lessons Learned
+
+<ul>
+  <li>A challenge we had was for accounting for resin shrinkage across enclosed internal bores versus exterior pins required iterative offset testing. Initial test prints without shrinkage compensation resulted in slight interference. One thing we learned was the need for the chafers on the part as it allowed the 
+  part to endure higher stresses. ~3.5 hours (CAD modeling & tolerance stack-up: 1.5 hrs; Slicing/Printing: 2.0 hrs)</li>
+</ul>
 
 
 ## Analyze
