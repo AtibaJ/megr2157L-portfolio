@@ -85,7 +85,7 @@ video of the printing process
 
 <figure>
   <video controls width="500" height="500">
-    <source src="Kit_cutting.mp4" type="video/mp4">
+    <source src="L10 Video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </figure>  
