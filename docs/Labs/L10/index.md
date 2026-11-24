@@ -27,99 +27,61 @@ I started with a 0.5000 circle to be the in inner barrel bore and mating plunger
 and 0.075 in wall thickness to  keep total resin volume under ~10–14 mL). As shown below  
 
 <figure>
-  <img src = "Screenshot_1.jpg" width = "500" height = "500">
+  <img src = "L10_1.png" width = "500" height = "500">
   <figcaption> Showing the first screenshot</figcaption>
 </figure>    
 
-Afterwards I extruded another part for the slider to be able go inside of the mating piece again with a 2.25 in barrel stroke length and 0.075 in wall 
-thickness to keep total resin volume under ~10–14 mL as shown below 
+Afterwards I shelled the outside to create a conic point as shown below, this creates a better syringe look. 
 
 <figure>
-  <img src = "Screenshot_2.jpg" width = "500" height = "500">
+  <img src = "L10_2.png" width = "500" height = "500">
   <figcaption> Showing the second screenshot</figcaption>
 </figure>   
 
-Then we Did the same for the other side just to in sure the slider wouldn't fall apart, again required so the slider won't be ajustiable past a certain 
-distance. 
+Then we I created another circle and extruded it again as shown below, just long and wide enough to fit inside of the shelled first hole. 
 
 <figure>
-  <img src = "Screenshot_3.jpg" width = "500" height = "500">
+  <img src = "L10_1.png" width = "500" height = "500">
   <figcaption> Showing the third screenshot</figcaption>
 </figure> 
 
-Next we engraved the numbers onto the plate so we can keep track with our slider as shown below. 
+Next I had to create the same conic look with the shell feature as shown below. 
 
 
 <figure>
-  <img src = "Screenshot_4.jpg" width = "500" height = "500">
+  <img src = "L10_2.png" width = "500" height = "500">
   <figcaption> Showing the forth screenshot</figcaption>
 </figure> 
 
-Lastly to finish the shaft we add boarders onto it for better appeal, as shown below. 
+## Preprocessing 
+
+Next I put our two parts into the resin Preform as shown below 
 
 <figure>
-  <img src = "Screenshot_5.jpg" width = "500" height = "500">
+  <img src = "L10_3.png" width = "500" height = "500">
   <figcaption> Showing the fifth screenshot</figcaption>
 </figure> 
 
-Picture of the final design 
+I noticed the prints were too big and didn't fit the required 20ml so below is me changing it. 
 
 
 <figure>
-  <img src = "Screenshot_6.jpg" width = "500" height = "500">
+  <img src = "L10_4.png" width = "500" height = "500">
+  <figcaption> Showing the sixth screenshot</figcaption>
+</figure> 
+
+Next I fixed the supports on the objects so they could print 
+
+
+<figure>
+  <img src = "L10_5.png" width = "500" height = "500">
   <figcaption> Showing the sixth screenshot</figcaption>
 </figure> 
 
 
+## Printing process
 
-## Cad Design (Part B) 
-
-To begin we created a rectangle and extruded the upper and bottom sides so it would be able to latch onto the number slider as shown below this is our first
-design.
-
-<figure>
-  <img src = "Screenshot_7.jpg" width = "500" height = "500">
-  <figcaption> Showing the seventh screenshot</figcaption>
-</figure> 
-
-Next we created an extrude on the front face of this rectangle to remove material and create a way to see the other numbers, as shown below. 
-
-<figure>
-  <img src = "Screenshot_8.jpg" width = "500" height = "500">
-  <figcaption> Showing the eight screenshot</figcaption>
-</figure> 
-
-After that we created a harsher lip for the slider so the latching would be more consistent as shown below.  
-
-
-<figure>
-  <img src = "Screenshot_9.jpg" width = "500" height = "500">
-  <figcaption> Showing the ninth screenshot</figcaption>
-</figure> 
-
-Then we rounded the inside of this to release some of the stress within the part itself. 
-
-<figure>
-  <img src = "Screenshot_10.jpg" width = "500" height = "500">
-  <figcaption> Showing the tenth screenshot</figcaption>
-</figure> 
-
-Final Part design
-
-<figure>
-  <img src = "Screenshot_11.jpg" width = "500" height = "500">
-  <figcaption> Showing the tenth screenshot</figcaption>
-</figure> 
-
-Final Product design 
-
-<figure>
-  <img src = "Screenshot_12.jpg" width = "500" height = "500">
-  <figcaption> Showing the tenth screenshot</figcaption>
-</figure> 
-
-
-## Preprocessing 
+ 
 
 ## Postprocessing 
 <ul>
