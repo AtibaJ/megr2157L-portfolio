@@ -13,18 +13,26 @@ plates without side-to-side play while allowing quick manual insertion and remov
 SLA resin prints typically experience volumetric shrinkage during UV post-curing (often resulting in slightly undersized holes and oversized exterior pins).
 In order to counteract polymerization shrinkage we had to create a larger offset for our shafts and holes. 
 
+ ## Application & Creative Artifact Concept
+
+To move beyond a plain cylinder-and-hole test coupon while staying well within the 20 mL resin volume cap, I designed a Two-Part Precision Dispensing Syringe 
+(Part A: graduated syringe barrel with finger flanges and a tapered dispensing nozzle; Part B: matching plunger piston with a thumb pad and alignment guide 
+ribs). Real-world applications of RC 2 sliding fits include precision fluid/adhesive dispensing syringes, metering plungers, locating pins in assembly jigs, 
+and telescoping instruments where smooth manual travel and accurate concentric alignment prevent cocking, binding, or inconsistent dosing.
+
 
 ## Cad Design (Part A) 
 
-We started in solid works with a 0.20 in by .50 in rectangle and extruded it allowing for a tolerance of 0.05 as shown below. 
+I started with a 0.5000 circle to be the in inner barrel bore and mating plunger piston land diameter (with a 2.25 in barrel stroke length 
+and 0.075 in wall thickness to  keep total resin volume under ~10–14 mL). As shown below  
 
 <figure>
   <img src = "Screenshot_1.jpg" width = "500" height = "500">
   <figcaption> Showing the first screenshot</figcaption>
 </figure>    
 
-Afterwards We extruded another part for the slider to be able to rest on when selecting numbers as shown below, this was needed so the slider couldn't go 
-farther than what we needed to go. 
+Afterwards I extruded another part for the slider to be able go inside of the mating piece again with a 2.25 in barrel stroke length and 0.075 in wall 
+thickness to keep total resin volume under ~10–14 mL as shown below 
 
 <figure>
   <img src = "Screenshot_2.jpg" width = "500" height = "500">
