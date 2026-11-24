@@ -111,10 +111,9 @@ to show correct dimensions and it passed the fit test.
 ## Lessons Learned
 
 <ul>
-  <li>A challenge we had was for accounting for resin shrinkage across enclosed internal bores versus exterior pins required iterative offset testing. Initial 
-   test prints without shrinkage compensation resulted in slight interference. One thing I learned was the need for the chafers on the part as it allowed the 
-  plunger to endure higher stresses. Total time taken was about ~3.5 hours (CAD modeling & tolerance stack-up: 1.5 hrs; Slicing/Printing: 2.0 hrs) Next time
-  I'll improve by creating more test beforehand or having a larger printer. </li>
+  <li>One challenge I had was trying to create the syringe itself I had to create a new body and split the body into two like last projects but it didn't work 
+   at the start. One thing I learned was the need for the chafers on the part as it allowed the plunger to endure higher stresses. Total time taken was about ~3.5  hours (CAD modeling & tolerance stack-up: 1.5 hrs; Slicing/Printing: 2.0 hrs) Next time I'll improve by creating more test beforehand or having a 
+   larger printer. </li>
 </ul>
 
 
