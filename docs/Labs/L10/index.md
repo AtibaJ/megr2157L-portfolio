@@ -81,6 +81,8 @@ Next I fixed the supports on the objects so they could print
 
 ## Printing process
 
+video of the printing process 
+
  
 
 ## Postprocessing 
@@ -94,19 +96,17 @@ Next I fixed the supports on the objects so they could print
 
 ## Fit test
 
+Using calipers, I measured the syringe barrel inner diameter (at the open flange end and mid-bore) and the plunger piston outer diameter across two 
+perpendicular axes to check for ovality and compare my actual clearance against the ANSI RC 2 range (0.00025–0.00095 in theoretical). The fit test turned out
+to show correct dimensions and it passed the fit test. 
+
 ## Lessons Learned
 
 <ul>
-  <li>A challenge we had was for accounting for resin shrinkage across enclosed internal bores versus exterior pins required iterative offset testing. Initial test prints without shrinkage compensation resulted in slight interference. One thing we learned was the need for the chafers on the part as it allowed the 
-  part to endure higher stresses. ~3.5 hours (CAD modeling & tolerance stack-up: 1.5 hrs; Slicing/Printing: 2.0 hrs)</li>
+  <li>A challenge we had was for accounting for resin shrinkage across enclosed internal bores versus exterior pins required iterative offset testing. Initial 
+   test prints without shrinkage compensation resulted in slight interference. One thing I learned was the need for the chafers on the part as it allowed the 
+  plunger to endure higher stresses. Total time taken was about ~3.5 hours (CAD modeling & tolerance stack-up: 1.5 hrs; Slicing/Printing: 2.0 hrs) Next time
+  I'll improve by creating more test beforehand or having a larger printer. </li>
 </ul>
 
-
-## Analyze
-
-
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
-
-## Communicate
 
