@@ -20,7 +20,7 @@ with a lot of people who play games often.
 I started with creating a basic shape of the holder using the outline of my desk as a reference as shown below, 
 
 <figure>
-  <img src = "L10_1.png" width = "500" height = "500">
+  <img src = "Screenshot 2026-11-27 5.59.57 PM.png" width = "500" height = "500">
   <figcaption> Showing the first screenshot</figcaption>
 </figure> 
 
