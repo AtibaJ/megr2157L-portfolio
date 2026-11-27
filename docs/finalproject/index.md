@@ -75,6 +75,22 @@ I would also make the distrubtion of everything larger so I wouldn't have to wor
 shown below.
 
 
+<figure>
+  <video controls width="500" height="500">
+    <source src="sla.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>  
+
+<figure>
+  <video controls width="500" height="500">
+    <source src="sla.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>  
+
+
+
 ## Lessons Learned: 
 
 I learned how hard it can be to create something to design specifications. The entire class has been just creating things we want to create
