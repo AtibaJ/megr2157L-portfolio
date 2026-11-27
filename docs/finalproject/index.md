@@ -84,7 +84,7 @@ shown below.
 
 <figure>
   <video controls width="500" height="500">
-    <source src="sla.mp4" type="video/mp4">
+    <source src="3dprint.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </figure>  
