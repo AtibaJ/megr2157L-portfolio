@@ -91,6 +91,13 @@ shown below.
 
 ## Curing
 
+<figure>
+  <video controls width="500" height="500">
+    <source src="curing.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>  
+
 ## Sla Print 
 
 
