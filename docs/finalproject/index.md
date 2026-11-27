@@ -45,6 +45,13 @@ Finally I would go to print this lead screw in FDM and the placement in SLA the 
     <source src="resinprint.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+</figure> 
+
+<figure>
+  <video controls width="500" height="500">
+    <source src="sla.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </figure>  
 
 
