@@ -19,6 +19,20 @@ with a lot of people who play games often.
 
 I started with creating a basic shape of the holder using the outline of my desk as a reference as shown below, 
 
+<figure>
+  <img src = "L10_1.png" width = "500" height = "500">
+  <figcaption> Showing the first screenshot</figcaption>
+</figure> 
+
+Next I would extrude this shape and cut a hole in the center point to allow for the screw and thread to be inserted as shown below,
+
+
+
+Finally I would go to print this lead screw in FDM and the placement in SLA the videos are shown below, 
+
+
+
+
 
 
 
